@@ -1,6 +1,6 @@
 root {
---cor-destaque: #00ff00;
---cor-gradiente-preto: linear-gradient(113deg, #000 0%, #1E2021 44.96%, #1E2022 100%);
+--cor-destaque: #000000;
+--cor-gradiente-preto: linear-gradient(113deg, #8b0000 0%, #ca0303 44.96%, #ff0000 100%);
 }
 
 * {
@@ -45,7 +45,7 @@ align-items: flex-start;
 gap: 0.625rem;
 align-self: stretch;
 border-radius: 0.625rem;
-background: #0077ff;
+background: #ffffff;
 font-size: 2rem;
 }
 
