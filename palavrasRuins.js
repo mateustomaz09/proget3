@@ -1,80 +1,124 @@
-"casa"
-"carro"
-"livro"
-"mesa"
-"cachorro"
-"gato"
-"escola"
-"professor"
-"aluno"
-"computador"
-"telefone"
-"janela"
-"porta"
-"flor"
-"árvore"
-"rio"
-"mar"
-"montanha"
-"sol"
-"lua"
-"estrela"
-"nuvem"
-"chuva"
-"vento"
-"neve"
-"caminho"
-"praia"
-"cidade"
-"vila"
-"rua"
-"parque"
-"jardim"
-"pássaro"
-"peixe"
-"inseto"
-"sorriso"
-"amor"
-"amizade"
-"felicidade"
-"tristeza"
-"esperança"
-"sonho"
-"vida"
-"morte"
-"tempo"
-"história"
-"música"
-"arte"
-"poema"
-"filme"
-"jogo"
-"esporte"
-"dança"
-"teatro"
-"cultura"
-"comida"
-"bebida"
-"fruta"
-"legume"
-"carne"
-"pão"
-"queijo"
-"sopa"
-"salada"
-"doce"
-"bolo"
-"chocolate"
-"café"
-"chá"
-"água"
-"ar"
-"terra"
-"fogo"
-"sombra"
-"luz"
-"som"
-"silêncio"
-"coração"
-"mente"
-"alma"
+export const PALAVRAS_RUINS = new Set([
+    "que",
+    "para",
+    "com",
+    "não",
+    "uma",
+    "por",
+    "mais",
+    "dos",
+    "como",
+    "mas",
+    "foi",
+    "ele",
+    "das",
+    "tem",
+    "seu",
+    "sua",
+    "ser",
+    "quando",
+    "muito",
+    "está",
+    "também",
+    "pelo",
+    "pela",
+    "até",
+    "isso",
+    "ela",
+    "entre",
+    "era",
+    "depois",
+    "sem",
+    "mesmo",
+    "aos",
+    "ter",
+    "seus",
+    "quem",
+    "nas",
+    "esse",
+    "eles",
+    "estão",
+    "você",
+    "tinha",
+    "foram",
+    "essa",
+    "num",
+    "nem",
+    "suas",
+    "meu",
+    "minha",
+    "têm",
+    "numa",
+    "pelos",
+    "elas",
+    "havia",
+    "seja",
+    "qual",
+    "será",
+    "nós",
+    "tenho",
+    "lhe",
+    "deles",
+    "essas",
+    "esses",
+    "pelas",
+    "este",
+    "fosse",
+    "dele",
+    "vocês",
+    "vos",
+    "lhes",
+    "meus",
+    "minhas",
+    "teu",
+    "tua",
+    "teus",
+    "tuas",
+    "nosso",
+    "nossa",
+    "nossos",
+    "nossas",
+    "dela",
+    "delas",
+    "esta",
+    "estes",
+    "estas",
+    "aquele",
+    "aquela",
+    "aqueles",
+    "aquelas",
+    "isto",
+    "aquilo",
+    "estou",
+    "estamos",
+    "estive",
+    "esteve",
+    "estivemos",
+    "estiveram",
+    "estava",
+    "estávamos",
+    "estavam",
+    "e",
+    "ou",
+    "onde",
+    "aquilo",
+    "embora",
+    "apesar",
+    "porque",
+    "enquanto",
+    "contudo",
+    "entretanto",
+    "portanto",
+    "além",
+    "antes",
+    "todavia",
+    "inclusive",
+    "diante",
+    "sobre",
+    "quanto",
+    "apenas",
+    "desde",
+    "uma vez",
+    "segundo",
+    "junto"
+]);
