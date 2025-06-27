@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
-root {
+
+:root {
 --cor-destaque: #000000;
 --cor-gradiente-preto: linear-gradient(113deg, #000000 0%, #e41212 44.96%, #000000 100%);
 }
